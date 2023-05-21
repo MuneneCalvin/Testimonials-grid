@@ -18,7 +18,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ![Screenshot of the webpage](./src/assets/Web%20capture_8-5-2023_213036_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository]()
+- [Github repository](https://github.com/MuneneCalvin/Testimonials-grid)
 - [Deployed site](#)
 
 ## Process
