@@ -19,7 +19,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 - [Github repository](https://github.com/MuneneCalvin/Testimonials-grid)
-- [Deployed site](#)
+- [Deployed site](https://testimonials-grid-bay-five.vercel.app/)
 
 ## Process
 ### Tools Used
