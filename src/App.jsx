@@ -1,3 +1,8 @@
+import Daniel from './assets/image-daniel.jpg'
+import Jonathan from './assets/image-jonathan.jpg'
+import Kira from './assets/image-kira.jpg'
+import Patrick from './assets/image-patrick.jpg'
+import Jean from './assets/image-jeanette.jpg'
 import './App.css'
 
 function App() {
@@ -7,7 +12,7 @@ function App() {
       <div id="grid-container">
             <div id="div-daniel" class="grid-element">
                 <div class="avatar">
-                    <img src="./images/image-daniel.jpg" alt="" />
+                    <img src={Daniel} alt="" />
                     <div class="details">
                         <h4 class="name">Daniel Clifford</h4>
                         <p class="position">Verified Graduate</p>
@@ -30,7 +35,7 @@ function App() {
             </div>
             <div id="div-jonathan" class="grid-element">
                 <div class="avatar">
-                    <img src="./images/image-jonathan.jpg" alt="" />
+                    <img src={Jonathan} alt="" />
                     <div class="details">
                         <h4 class="name">Jonathan Walters</h4>
                         <p class="position">Verified Graduate</p>
@@ -45,7 +50,7 @@ function App() {
             </div>
             <div id="div-jeanette" class="grid-element">
                 <div class="avatar">
-                    <img src="./images/image-jeanette.jpg" alt="" />
+                    <img src={Jean} alt="" />
                     <div class="details">
                         <h4 class="name">Jeanette Harmon</h4>
                         <p class="position">Verified Graduate</p>
@@ -59,7 +64,7 @@ function App() {
             </div>
             <div id="div-patrick" class="grid-element">
                 <div class="avatar">
-                    <img src="./images/image-patrick.jpg" alt="" />
+                    <img src={Patrick} alt="" />
                     <div class="details">
                         <h4 class="name">Patrick Abrams</h4>
                         <p class="position">Verified Graduate</p>
@@ -82,7 +87,7 @@ function App() {
             </div>
             <div id="grid-kira" class="grid-element">
                 <div class="avatar">
-                    <img src="./images/image-kira.jpg" alt="" />
+                    <img src={Kira} alt="" />
                     <div class="details">
                         <h4 class="name">Kira Whittle</h4>
                         <p class="position">Verified Graduate</p>
